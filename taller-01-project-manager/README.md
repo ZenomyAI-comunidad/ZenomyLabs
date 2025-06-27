@@ -41,7 +41,7 @@ Con solo escribir una idea o requerimiento, este sistema:
 ## 📦 Archivos
 
 - `project_manager_colab.ipynb`: notebook principal
-- `assets/preview.pdf`: vista previa del resultado
+- `App de Alquiler de Canchas de Fútbol.pdf`: vista previa del resultado
 - `README.md`: este archivo
 
 ---
