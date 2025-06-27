@@ -10,4 +10,4 @@ Guías abiertas con IA para construir herramientas útiles, desde la idea hasta 
 
 ---
 
-🧠 Construido por [Zenomy](https://zenomy.ai) – IA aplicada desde Latinoamérica.
+🧠 Construido por [Zenomy](https://zenomyai.com) – IA aplicada desde Latinoamérica.
