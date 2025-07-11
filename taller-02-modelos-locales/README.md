@@ -56,3 +56,15 @@ from llama_cpp import Llama
 llm = Llama(model_path="models/Qwen3-1.7B-GGUF.gguf", n_ctx=512, n_threads=4)
 output = llm("¿Qué es la inteligencia artificial?", max_tokens=100)
 print(output['choices'][0]['text'].strip())
+```
+
+🧠 Sobre Zenomy Labs
+Zenomy Labs es una iniciativa abierta para impulsar la IA desde LATAM.
+Creemos en aprender en público, compartir lo que hacemos y construir comunidad.
+
+📎 https://zenomyai.com
+📢 @zenomy_ai en Instagram
+
+🤝 Contribuye o comparte
+¿Probaste otros modelos? ¿Hiciste mejoras al notebook?
+¡Haz un fork, súbelo a redes o manda PR!
